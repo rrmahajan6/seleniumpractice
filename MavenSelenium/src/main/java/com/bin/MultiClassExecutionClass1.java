@@ -15,5 +15,15 @@ public class MultiClassExecutionClass1 {
 	public void demo3() {
 		System.out.println("Class 1 demo 3");
 	}
+	public void demo5() {
+		System.out.println("Class 1 demo 1");
+	}
+	public void demo4() {
+		System.out.println("Class 1 demo 1");
+	}
+	public void demo6() {
+		System.out.println("Class 1 demo 1");
+	}
+	
 
 }
